@@ -22,5 +22,5 @@ This is my project where I have made a Programming a site to download any link t
 
 ## ✨ Live Demo
 
-Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
+Explore the interactive features and dynamic elements of QR_CODE by visiting the hosted page on Github:
 [QR CODE Page](https://mhmdtahasherif.github.io/QR_CODE/)
