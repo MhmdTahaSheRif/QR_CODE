@@ -1,6 +1,6 @@
 # QR-code
 
-<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/QR-CODE/blob/main/icon/QR-CODE.png">
+<img align="center" width="80%" src="https://github.com/MhmdTahaSheRif/QR_CODE/blob/main/icon/QR-CODE.png">
 
 ## What is QR code?
  Programming a site to download any link to QR Code in { Html, Css, Javascript }.
@@ -23,4 +23,4 @@ This is my project where I have made a Programming a site to download any link t
 ## ✨ Live Demo
 
 Explore the interactive features and dynamic elements of Spering by visiting the hosted page on Github:
-[QR-CODE Page](https://mhmdtahasherif.github.io/QR-CODE/)
+[QR CODE Page](https://mhmdtahasherif.github.io/QR_CODE/)
